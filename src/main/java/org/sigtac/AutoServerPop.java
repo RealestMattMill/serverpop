@@ -47,11 +47,11 @@ public class AutoServerPop
                     String ip = serv.getAttributes().getIp();
                     String connectPortStr = serv.getAttributes().getPortQuery().toString();
                     if (connectPort != null ) {
-                        connectPortStr = port.toString();
+                        connectPortStr = connectPort.toString();
                     }
                     String addr = ip + ":" + connectPortStr;
                     Integer players = serv.getAttributes().getPlayers();
-                    Integer maxPlayers =serv.getAttributes().getMaxPlayers();
+                    Integer maxPlayers = serv.getAttributes().getMaxPlayers();
                     logger.info("Found server: " + name +
                             " ip: " + addr +
                             " players: " + players + "/" + maxPlayers);
