@@ -97,12 +97,12 @@ public class AutoServerPop
         try {
             CommandLineParser parser = new DefaultParser();
             Options options = new Options();
-            options.addOption("n", "name", true, "The name to filter for using string contains");
-            options.addOption("p", "searchPort", true, "The port to search on");
+            options.addOption("n", "name", true, "The name to filter for using string contains.  Defaults to \"ΣT\"");
+            options.addOption("p", "searchPort", true, "The port to search on when querying the battlemetrics API.");
             options.addOption("cp", "connectPort", true, "Override the port to connect on.  Default is the queryPort from battle metrics.");
             options.addOption("d", "delay", true, "The base delay to refresh in seconds.  Will randomize by +-1 minute.  Default 180");
-            options.addOption("mn", "min", true, "Min threshold.  Will reconnect below this threshold if we have previously disconnected after hitting the max. Default 15, will randomize +- 5");
-            options.addOption("mx", "max", true, "Max threshold.  Will initially connect if lower than this value.  Will disconnect after the threshold is met.  Default 65, Will randomize by +- 5");
+            options.addOption("mn", "min", true, "Min threshold.  Will connect below this threshold. Default 40, will randomize +- 5");
+            options.addOption("mx", "max", true, "Max threshold.  Will disconnect after the threshold is met.  Default 65, Will randomize by +- 5");
             options.addOption("i", "ip", true, "The explicit IP to connect to");
             options.addOption("h","help", false, "Display help");
 
