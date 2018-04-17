@@ -1,0 +1,512 @@
+{
+  "data": [
+    {
+      "type": "server",
+      "id": "446846",
+      "attributes": {
+        "id": "446846",
+        "name": "Rustafied.com - EU Main",
+        "ip": "31.186.251.11",
+        "port": 28065,
+        "players": 393,
+        "maxPlayers": 400,
+        "rank": 1,
+        "location": [
+          8.6407,
+          50.1047
+        ],
+        "status": "online",
+        "details": {
+          "map": "Procedural Map",
+          "environment": "w",
+          "rust_build": "26385",
+          "rust_ent_cnt_i": 143904,
+          "rust_fps": 16,
+          "rust_fps_avg": 17.33,
+          "rust_gc_cl": 194,
+          "rust_gc_mb": 2006,
+          "rust_hash": "1c46f4d5",
+          "rust_headerimage": "http://i.imgur.com/ujMCXvA.png",
+          "rust_mem_pv": null,
+          "rust_mem_ws": null,
+          "rust_pve": false,
+          "rust_uptime": 52351,
+          "rust_url": "https://forum.rustafied.com/store/product/26-vip-slot-eu/",
+          "rust_world_seed": 9128627,
+          "rust_world_size": 4000,
+          "rust_description": "EU: That Rustafied Main goodness, now in Europe!\n\nMap wipe schedule: Weekly (or when forced)\nLast wipe: April 5th @ Update - Next wipe: April 12th @ 5pm BST\nBlueprints wipe every 2 months. Next: 7th June\n\nWant to skip the queue? Get VIP at rustafied.com/vip\n\nPlease behave in a mature manner. Trolls, asshats, and toxic players are not welcome. Server rules: rustafied.com/rules\n\nNeed help? rustafied.com/support\nJoin our community! forum.rustafied.com",
+          "rust_modded": false,
+          "rust_queued_players": 94,
+          "rust_last_ent_drop": "2018-04-05T21:49:58.720Z",
+          "rust_last_seed_change": "2018-04-05T21:49:58.720Z",
+          "rust_last_wipe": "2018-04-05T21:49:58.720Z",
+          "rust_map_size_ent_count": "2018-04-05T21:49:58.720Z",
+          "rust_last_wipe_ent": 26274,
+          "serverSteamId": "90114138309580806"
+        },
+        "createdAt": "2016-09-01T19:21:10.245Z",
+        "updatedAt": "2018-04-07T15:23:04.057Z",
+        "portQuery": 28065,
+        "country": "DE"
+      },
+      "relationships": {
+        "game": {
+          "data": {
+            "type": "game",
+            "id": "rust"
+          }
+        }
+      }
+    },
+    {
+      "type": "server",
+      "id": "1155347",
+      "attributes": {
+        "id": "1155347",
+        "name": "[GER] Team ELAN Altis Life | 60k Startwoche | TeamSpeak: ts.Tea",
+        "ip": "151.80.109.152",
+        "port": 2302,
+        "players": 135,
+        "maxPlayers": 255,
+        "rank": 1,
+        "location": [
+          3.1746,
+          50.6942
+        ],
+        "status": "online",
+        "details": {
+          "map": "Altis",
+          "mission": "Arma Life RPG | www.Team-ELAN.de",
+          "gameid": 107410,
+          "version": "1.80.143751",
+          "sigs": [
+            "a3",
+            "TeamELAN",
+            "TeamELAN2",
+            "TeamELAN3",
+            "TeamELAN4"
+          ],
+          "modNames": [],
+          "modHashes": [],
+          "modIds": [],
+          "thirdPerson": true,
+          "advancedFlightMode": false,
+          "difficultyAI": 2,
+          "difficultyLevel": 3,
+          "crosshair": false,
+          "serverSteamId": "90114140868684811"
+        },
+        "createdAt": "2017-06-08T19:00:52.296Z",
+        "updatedAt": "2018-04-07T15:22:54.855Z",
+        "portQuery": 2303,
+        "country": "FR"
+      },
+      "relationships": {
+        "game": {
+          "data": {
+            "type": "game",
+            "id": "arma3"
+          }
+        }
+      }
+    },
+    {
+      "type": "server",
+      "id": "1364329",
+      "attributes": {
+        "id": "1364329",
+        "name": " TILtheEnd/TheArk.Life PVE x10ALL - (v100.23019)",
+        "ip": "66.70.180.231",
+        "port": 7786,
+        "players": 23,
+        "maxPlayers": 255,
+        "rank": 1,
+        "location": [
+          -73.5747,
+          45.504
+        ],
+        "status": "online",
+        "details": {
+          "map": "DNL_ALL",
+          "time": "19:24",
+          "official": false,
+          "passworded": false,
+          "serverSteamId": "90114142194269192"
+        },
+        "createdAt": "2017-08-05T09:59:09.559Z",
+        "updatedAt": "2018-04-07T15:18:44.438Z",
+        "portQuery": 27021,
+        "country": "CA"
+      },
+      "relationships": {
+        "game": {
+          "data": {
+            "type": "game",
+            "id": "dnl"
+          }
+        }
+      }
+    },
+    {
+      "type": "server",
+      "id": "1396097",
+      "attributes": {
+        "id": "1396097",
+        "name": "WesterosRP - Storm of Swords - WesterosRP.enjin.com - Season - ",
+        "ip": "144.217.11.17",
+        "port": 7777,
+        "players": 25,
+        "maxPlayers": 120,
+        "rank": 1,
+        "location": [
+          -73.8659,
+          45.3168
+        ],
+        "status": "online",
+        "details": {
+          "modIds": [
+            "1258613731",
+            "842913750",
+            "764755314",
+            "749466101"
+          ],
+          "modHashes": [
+            "5FF438E1435BA24B0DC37AA37232BD0C",
+            "CC12E1E54CB3E8514D26A1A6F1B8AC85",
+            "9C3B7C424AE31430C2CF9A8C345A69A8",
+            "B927A5CE4BB791114BA14AA8630DB927"
+          ],
+          "map": "TheIsland",
+          "time": "341",
+          "offical": false,
+          "official": false,
+          "gamemode": "TestGameMode_ASOFAI_C",
+          "modNames": [
+            null,
+            "HG Stacking Mod 2500-50 V271",
+            "Castles, Keeps, and Forts Medieval Architecture",
+            "Advanced Rafts"
+          ],
+          "serverSteamId": "90114138153973770"
+        },
+        "createdAt": "2017-08-14T22:45:29.699Z",
+        "updatedAt": "2018-04-07T15:19:23.331Z",
+        "portQuery": 27015,
+        "country": "CA"
+      },
+      "relationships": {
+        "game": {
+          "data": {
+            "type": "game",
+            "id": "ark"
+          }
+        }
+      }
+    },
+    {
+      "type": "server",
+      "id": "1520687",
+      "attributes": {
+        "id": "1520687",
+        "name": "POWERBITS GAMETEAM MIXED 60HZ",
+        "ip": "23.111.81.172",
+        "port": 8077,
+        "players": 64,
+        "maxPlayers": 64,
+        "rank": 1,
+        "location": [
+          4.8995,
+          52.3824
+        ],
+        "status": "online",
+        "details": {
+          "map": "VNTE-Resort",
+          "rs2v_AdminContact": "",
+          "rs2v_bAntiCheatProtected": true,
+          "rs2v_bIsCampaignGame": false,
+          "rs2v_bIsDedicated": false,
+          "rs2v_bIsRanked": true,
+          "rs2v_bRequiresPassword": false,
+          "rs2v_bUsesStats": true,
+          "rs2v_FriendlyFire": 100,
+          "rs2v_GameMode": 1,
+          "rs2v_MapGame": 0,
+          "rs2v_MapType": 1,
+          "rs2v_MaxHonor": 100,
+          "rs2v_MinHonor": 0,
+          "rs2v_RealismLevel": 0,
+          "rs2v_SpectatorMode": 0,
+          "rs2v_MutatorsRunning": "",
+          "serverSteamId": "90114139858755586"
+        },
+        "createdAt": "2017-09-21T10:01:55.314Z",
+        "updatedAt": "2018-04-07T15:21:09.070Z",
+        "portQuery": 8087,
+        "country": "NL"
+      },
+      "relationships": {
+        "game": {
+          "data": {
+            "type": "game",
+            "id": "rs2vietnam"
+          }
+        }
+      }
+    },
+    {
+      "type": "server",
+      "id": "1583347",
+      "attributes": {
+        "id": "1583347",
+        "name": "RU | Whiskey Strike | W.S | TOP I",
+        "ip": "46.174.49.106",
+        "port": 27015,
+        "players": 31,
+        "maxPlayers": 32,
+        "rank": 1,
+        "location": [
+          37.6068,
+          55.7386
+        ],
+        "status": "online",
+        "details": {
+          "map": "contact",
+          "insurgency_friendlyfire": true,
+          "insurgency_mp_theater_override": "",
+          "insurgency_mp_timelimit": "0",
+          "insurgency_mp_winlimit": "3",
+          "insurgency_nextlevel": "",
+          "insurgency_sv_factions": "security,insurgents",
+          "insurgency_sv_hud_deathmessages": false,
+          "insurgency_sv_hud_scoreboard_show_score": false,
+          "insurgency_sv_thirdperson": false,
+          "insurgency_gamemode": "push",
+          "insurgency_playlist": "nwi/pvp_sustained",
+          "insurgency_pure": false,
+          "insurgency_version": 2411,
+          "serverSteamId": "90114105604816898"
+        },
+        "createdAt": "2017-10-12T11:11:27.474Z",
+        "updatedAt": "2018-04-07T15:20:27.036Z",
+        "portQuery": 27015,
+        "country": "RU"
+      },
+      "relationships": {
+        "game": {
+          "data": {
+            "type": "game",
+            "id": "insurgency"
+          }
+        }
+      }
+    },
+    {
+      "type": "server",
+      "id": "1655106",
+      "attributes": {
+        "id": "1655106",
+        "name": "[EU-DE/ESP/UK] Guardianes de Hyboria - x10 [27.3] EVENTS/NOGODS",
+        "ip": "176.57.140.27",
+        "port": 28100,
+        "players": 39,
+        "maxPlayers": 70,
+        "rank": 1,
+        "location": [
+          8.7119,
+          50.1137
+        ],
+        "status": "online",
+        "details": {
+          "conanexiles_officialServer": false,
+          "conanexiles_pvpEnabled": true,
+          "conanexiles_noOwnership": false,
+          "conanexiles_canDamagePlayerOwnedStructures": true,
+          "conanexiles_logoutCharactersRemainInTheWorld": true,
+          "conanexiles_durabilityMultiplier": 1,
+          "conanexiles_dropEquipmentOnDeath": true,
+          "conanexiles_everybodyCanLootCorpse": true,
+          "conanexiles_dayCycleSpeedScale": 1,
+          "conanexiles_dayTimeSpeedScale": 1,
+          "conanexiles_nightTimeSpeedScale": 1,
+          "conanexiles_dawnDuskSpeedScale": 0.5,
+          "conanexiles_playerHealthMultiplier": 1,
+          "conanexiles_playerStaminaMultiplier": 1,
+          "conanexiles_staminaCostMultiplier": 1,
+          "conanexiles_itemSpoilRateScale": 0.5,
+          "conanexiles_harvestAmountMultiplier": 3,
+          "conanexiles_resourceRespawnSpeedMultiplier": 5,
+          "conanexiles_maxNudity": 2,
+          "conanexiles_serverCommunity": 1,
+          "conanexiles_chatHasGlobal": true,
+          "conanexiles_clanMaxSize": 10,
+          "conanexiles_battleyeEnabled": true,
+          "conanexiles_serverRegion": 0,
+          "serverSteamId": "90114147066008582"
+        },
+        "createdAt": "2017-11-05T16:37:51.529Z",
+        "updatedAt": "2018-04-07T15:21:34.330Z",
+        "portQuery": 28115,
+        "country": "DE"
+      },
+      "relationships": {
+        "game": {
+          "data": {
+            "type": "game",
+            "id": "conanexiles"
+          }
+        }
+      }
+    },
+    {
+      "type": "server",
+      "id": "1697444",
+      "attributes": {
+        "id": "1697444",
+        "name": "SocialGamersClub.com | PvP | Admins | WIPED 3/29",
+        "ip": "144.48.104.58",
+        "port": 15818,
+        "players": 20,
+        "maxPlayers": 50,
+        "rank": 1,
+        "location": [
+          -87.6198,
+          41.8632
+        ],
+        "status": "online",
+        "details": {
+          "7dtd_AirDropFrequency": 72,
+          "7dtd_AirDropMarker": false,
+          "7dtd_BlockDurabilityModifier": 100,
+          "7dtd_BuildCreate": false,
+          "7dtd_CurrentServerTime": 4591785,
+          "7dtd_DayCount": 3,
+          "7dtd_DayLightLength": 18,
+          "7dtd_DayNightLength": 60,
+          "7dtd_DropOnDeath": 0,
+          "7dtd_DropOnQuit": 0,
+          "7dtd_EACEnabled": true,
+          "7dtd_EnemyDifficulty": 0,
+          "7dtd_EnemySenseMemory": null,
+          "7dtd_EnemySpawnMode": null,
+          "7dtd_GameDifficulty": 5,
+          "7dtd_GameMode": "SurvivalMP",
+          "7dtd_IsPasswordProtected": false,
+          "7dtd_LandClaimDeadZone": 30,
+          "7dtd_LandClaimDecayMode": 1,
+          "7dtd_LandClaimExpiryTime": 7,
+          "7dtd_LandClaimOfflineDurabilityModifier": 32,
+          "7dtd_LandClaimOnlineDurabilityModifier": 16,
+          "7dtd_LandClaimSize": 51,
+          "7dtd_LevelName": "Random Gen",
+          "7dtd_LootAbundance": 100,
+          "7dtd_LootRespawnDays": 30,
+          "7dtd_MaxSpawnedAnimals": 120,
+          "7dtd_MaxSpawnedZombies": 120,
+          "7dtd_PlayerKillingMode": 3,
+          "7dtd_RequiresMod": false,
+          "7dtd_ServerDescription": "Fresh Wipe As Of 3/29, Exciting Action Packed PvP. Join discord to stay up to date - https://discord.gg/bsNxUj2",
+          "7dtd_ServerWebsiteURL": "www.SocialGamersClub.com",
+          "7dtd_ShowFriendPlayerOnMap": true,
+          "7dtd_StockFiles": true,
+          "7dtd_StockSettings": true,
+          "7dtd_Version": "Alpha 16.4",
+          "7dtd_ZombiesRun": 0,
+          "7dtd_worldAge": 11461.9625,
+          "serverSteamId": "90114122209197064"
+        },
+        "createdAt": "2017-11-22T10:15:41.732Z",
+        "updatedAt": "2018-04-07T15:17:11.826Z",
+        "portQuery": 15819,
+        "country": "US"
+      },
+      "relationships": {
+        "game": {
+          "data": {
+            "type": "game",
+            "id": "7dtd"
+          }
+        }
+      }
+    },
+    {
+      "type": "server",
+      "id": "1900715",
+      "attributes": {
+        "id": "1900715",
+        "name": "SquadOps.gg - Invasion 24/7",
+        "ip": "23.236.129.51",
+        "port": 7703,
+        "players": 76,
+        "maxPlayers": 80,
+        "rank": 1,
+        "location": [
+          -96.8705,
+          32.8148
+        ],
+        "status": "online",
+        "details": {
+          "map": "Kohat Invasion v1",
+          "gameMode": "Invasion",
+          "version": "a-10.2.370.1472",
+          "secure": 0,
+          "licensedServer": true,
+          "numPubConn": 76,
+          "numPrivConn": 4,
+          "numOpenPrivConn": 4,
+          "serverSteamId": "90114102082197512"
+        },
+        "createdAt": "2018-01-19T15:14:52.497Z",
+        "updatedAt": "2018-04-07T15:22:53.878Z",
+        "portQuery": 27167,
+        "country": "US"
+      },
+      "relationships": {
+        "game": {
+          "data": {
+            "type": "game",
+            "id": "squad"
+          }
+        }
+      }
+    },
+    {
+      "type": "server",
+      "id": "1960100",
+      "attributes": {
+        "id": "1960100",
+        "name": "[ZA] Flexx TDM (RELEASE-11126)",
+        "ip": "41.79.78.59",
+        "port": 7777,
+        "players": 9,
+        "maxPlayers": 10,
+        "rank": 1,
+        "location": [
+          24,
+          -29
+        ],
+        "status": "online",
+        "details": {
+          "map": "Liberation",
+          "gameMode": "TDM",
+          "password": false,
+          "serverSteamId": "90113304982260739"
+        },
+        "createdAt": "2018-02-06T00:20:56.420Z",
+        "updatedAt": "2018-04-04T10:50:39.068Z",
+        "portQuery": 7780,
+        "country": "ZA"
+      },
+      "relationships": {
+        "game": {
+          "data": {
+            "type": "game",
+            "id": "battalion1944"
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "next": "https://api.battlemetrics.com/servers?page%5Bkey%5D=1%2C1960100&page%5Brel%5D=next"
+  }
+}
